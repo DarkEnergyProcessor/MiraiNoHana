@@ -1,0 +1,5 @@
+bin/*
+sln/*
+!sln/Future of the Flowers.sln
+!sln/Future of the Flowers.vcxproj
+!sln/Future of the Flowers.vcxproj.filters

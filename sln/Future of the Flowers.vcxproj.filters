@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="libtexb">
+      <UniqueIdentifier>{83a95e66-b466-4934-a67c-cc26dce93a60}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\itsudemo-libtexb\TEXBFetch.cpp">
+      <Filter>libtexb</Filter>
+    </ClCompile>
+    <ClCompile Include="..\itsudemo-libtexb\TEXBModify.cpp">
+      <Filter>libtexb</Filter>
+    </ClCompile>
+    <ClCompile Include="..\itsudemo-libtexb\TEXBPixel.cpp">
+      <Filter>libtexb</Filter>
+    </ClCompile>
+    <ClCompile Include="..\itsudemo-libtexb\TEXBSave.cpp">
+      <Filter>libtexb</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Not_Umi_Song.cpp" />
+    <ClCompile Include="..\itsudemo-libtexb\TIMG.cpp">
+      <Filter>libtexb</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
